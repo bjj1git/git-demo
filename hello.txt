@@ -1,10 +1,10 @@
-hello bjj,hellohellohello bjj,hellohello
+<<<<<<< HEAD
 
-hello bjj,hellohel hot-fix-text
-22222
-hot-fix
-
-test
-
-
-master-text
+bjj
+bjj
+bj
+bjj
+bjj
+bjj
+1234567
+>>>>>>> d384ff3e8a57f90118b319d5365dea528849ace2
